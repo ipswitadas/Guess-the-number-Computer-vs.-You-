@@ -7,3 +7,4 @@ Concepts used:
 -print
 -if/else
 -while loop
+(pl ignore any mistakes as I'm a newbie 👉🏻👈🏻)
