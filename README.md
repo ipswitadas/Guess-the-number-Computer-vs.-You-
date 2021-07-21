@@ -1,4 +1,4 @@
-# Guess-the-number-Computer-vs.-You-
+# Guess the number Computer vs. You (just a demo)
 Input the lower and and upper limit. Then the compiler generates random digit (within your limit) for you to guess.
 Concepts used:
 -variables
